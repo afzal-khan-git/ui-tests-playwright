@@ -1,7 +1,13 @@
 {
-    "url" : "https://practicesoftwaretesting.com/"
+    "app_info":{
+    "url" : "https://practicesoftwaretesting.com/",
+    "name" :"PracticeSowftwareTestingDemo"
 
-
-
+    },
+    "user_info":{
+        "email":"afzalkhan2357@gmail.com",
+        "password":"vn12345%nd"
+    }
+    
 
 }
